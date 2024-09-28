@@ -9,7 +9,7 @@ laragigs is a Job portal Web Application, built with Laravel 11, and Tailwind CS
 1. Download the code by clicking **Code**, **Download ZIP**. Or if you have Git install in your machine, you can run this in your terminal.
 
 ```
-git clone https://github.com/0xAlMo3geZ/laragigs.git
+git clone https://github.com/devmuhammadzaki/laragigs.git
 ```
 
 2. Change directory to your local copy of `laragigs` in your terminal. Then install composer dependencies.
